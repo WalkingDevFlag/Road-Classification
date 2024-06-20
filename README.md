@@ -1,4 +1,4 @@
-# Road Classification Model README
+# Road Classification Model 
 
 ## Overview
 This repository contains a PyTorch Lightning-based implementation of a road classification model using the U-Net architecture. The model is trained on a dataset of images with corresponding masks, and it is designed to predict the road class in each pixel of the input image.
