@@ -27,14 +27,6 @@ The model's performance is evaluated using the following metrics:
 - **Pandas**: Version 1.4.4 or higher.
 - **Matplotlib**: Version 3.5.2 or higher.
 
-## Requirements
-- **PyTorch**: Version 1.12.1 or higher.
-- **PyTorch Lightning**: Version 1.6.1 or higher.
-- **Albumentations**: Version 1.2.0 or higher.
-- **OpenCV**: Version 4.5.5.64 or higher.
-- **Pandas**: Version 1.4.4 or higher.
-- **Matplotlib**: Version 3.5.2 or higher.
-
 ## Usage
 1. Clone the repository and navigate to the directory.
 2. Install the required packages using `pip install -r requirements.txt`.
