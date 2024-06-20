@@ -41,5 +41,7 @@ The model's performance is evaluated using the following metrics:
 3. Run the training script using `python train.py`.
 4. Load the trained model and test it using `python test.py`.
 
-## Contact
-For any questions or issues, please contact [Your Name] at [Your Email].
+## Liscense
+Lmao no Liscense
+
+
