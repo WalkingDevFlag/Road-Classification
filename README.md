@@ -19,8 +19,13 @@ The model's performance is evaluated using the following metrics:
 - **Precision**: The proportion of true positives among all predicted positives.
 - **Recall**: The proportion of true positives among all actual positives.
 
-## Model Saving and Loading
-The trained model is saved to a file named `road-model.pth` in the specified directory. The model can be loaded and tested using the provided code.
+## Requirements
+- **PyTorch**: Version 1.12.1 or higher.
+- **PyTorch Lightning**: Version 1.6.1 or higher.
+- **Albumentations**: Version 1.2.0 or higher.
+- **OpenCV**: Version 4.5.5.64 or higher.
+- **Pandas**: Version 1.4.4 or higher.
+- **Matplotlib**: Version 3.5.2 or higher.
 
 ## Requirements
 - **PyTorch**: Version 1.12.1 or higher.
