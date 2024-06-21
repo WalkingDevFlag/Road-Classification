@@ -35,7 +35,7 @@ The model's performance is evaluated using the following metrics:
 - **Precision**: The proportion of true positives among all predicted positives.
 - **Recall**: The proportion of true positives among all actual positives.
 
-## Usage
+## Usage (Don't Do this i'll think abt this section)
 1. Clone the repository and navigate to the directory.
 2. Install the required packages using `pip install -r requirements.txt`.
 3. Run the training script using `python train.py`.
