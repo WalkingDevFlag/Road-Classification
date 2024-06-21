@@ -15,7 +15,7 @@ This repository contains a PyTorch Lightning-based implementation of a road clas
 
 The dataset consists of satellite images and their corresponding segmentation masks, organized into images and mask directories. The class definitions are stored in a 'class_dict.csv' file.
 
-I've used the DeepGlobe Land-Cover Dataset. I separated the images in the `train` folder into 2 folders, `Images` and `Masks`
+I've used the DeepGlobe Road Extraction Dataset. I separated the images in the `train` folder into 2 folders, `Images` and `Masks`
 
 Link to the Dataset -> [DeepGlobe Road Extraction Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset)
 
